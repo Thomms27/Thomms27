@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 </td><td valign="top" width="50%">
 
-🇯🇵 日本語能力試験N3　＋　漢検５級  
+:jp: 日本語能力試験N3　＋　漢検５級  
 
 
 </td></tr></table>  
